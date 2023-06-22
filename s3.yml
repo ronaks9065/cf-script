@@ -3,7 +3,7 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: demotestfbdfhbvhjvrtfghfgh
+      BucketName: ronakrpsqadoytbfhtg
       AccessControl: Private
       VersioningConfiguration:
         Status: Enabled
