@@ -3,7 +3,7 @@ Resources:
   S3Bucket:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: ronakrpsqadoytbfhtfsdgfvdparthg
+      BucketName: ronakrpsdibyesdhtgrthg
       AccessControl: Private
       VersioningConfiguration:
         Status: Enabled
